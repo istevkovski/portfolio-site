@@ -1,0 +1,143 @@
+@import './variables.scss';
+
+.contact {
+    position: relative;
+    height: 100vh;
+
+    .wrapper {
+        position: relative;
+        height: 100%;
+        padding: 40px;
+
+        .title {
+            position: relative;
+            font-family: $barlow;
+            font-size: 32px;
+            font-weight: 300;
+            color: $branding-orange;
+            text-transform: uppercase;
+            text-align: center;
+        }
+    }
+
+    .user-msg {
+        position: relative;
+        width: 440px;
+        height: 75px;
+        margin-top: 76px;
+        margin-left: 66px;
+
+        p {
+            font-family: $josefin-sans;
+            font-weight: 300;
+            font-size: 32px;
+            color: $gray-text;
+        }
+
+        // &-top {
+
+        // }
+
+        &-bottom {
+            text-align: right;
+        }
+    }
+}
+
+.phone {
+    position: relative;
+    width: 423px;
+    height: 423px;
+    margin-left: -40px;
+    overflow: hidden;
+
+    &-model {
+        position: absolute;
+        width: 245px;
+        height: 315.18px;
+        top: 71px;
+        left: 102px;
+    }
+
+    &-signal {
+        position: relative;
+        width: 423px;
+        height: 423px;
+    }
+}
+
+.nav-name {
+    text-align: right;
+    cursor: default;
+    h2 {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-size: 42px;
+        font-weight: 200;
+        color: $gray-text;
+    }
+
+    span {
+        color: $branding-orange;
+    }
+
+    h4 {
+        font-weight: 200;
+        font-size: 26;
+    }
+
+}
+
+.contact-main-flex {
+    display: flex;
+    flex-direction: row;
+
+    .left {
+        width: 50%;
+    }
+    
+    .right {
+        width: 50%;
+        margin-top: 114px;
+        margin-left: 51px;
+    }
+
+    .contact-info {
+        width: 400px;
+        height: 260px;
+    }
+}
+
+.contact-info .contact-data {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+
+    .partial {
+        display: flex;
+        flex-direction: row;
+        font-family: $josefin-sans;
+        font-weight: 300;
+        font-size: 21px;
+        // justify-content: space-between;
+        justify-content: flex-end;
+
+        p {
+            text-align: left;
+        }
+
+        span {
+            margin-left: 20px;
+            justify-self: right;
+        }
+    }
+
+}
+
+.copyright-text {
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    font-family: $josefin-sans;
+    font-weight: 300;
+    font-size: 17px;
+}

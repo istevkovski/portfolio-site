@@ -1,0 +1,220 @@
+<svg id="Group_2" data-name="Group 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 501 248.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9da;
+      }
+
+      .cls-2 {
+        fill: #848484;
+      }
+
+      .cls-3 {
+        fill: #9721d6;
+      }
+
+      .cls-4 {
+        fill: #b7b7b7;
+      }
+
+      .cls-5 {
+        fill: #f9d6b7;
+      }
+
+      .cls-6 {
+        fill: #231f20;
+      }
+
+      .cls-7 {
+        fill: #cececf;
+      }
+
+      .cls-8 {
+        fill: #3a3436;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill: #43d6cb;
+      }
+
+      .cls-11 {
+        fill: #ff508f;
+      }
+
+      .cls-12 {
+        fill: #ebebf5;
+      }
+
+      .cls-13 {
+        opacity: 0.5;
+      }
+
+      .cls-13, .cls-18 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-14 {
+        fill: #8381ce;
+      }
+
+      .cls-15 {
+        fill: #dbdbdb;
+      }
+
+      .cls-16 {
+        fill: #47439e;
+      }
+
+      .cls-17 {
+        fill: #cccbe7;
+      }
+
+      .cls-19 {
+        fill: #bababe;
+      }
+
+      .cls-20 {
+        fill: #e8e8e8;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="227.865" height="123.322"/>
+    </clipPath>
+  </defs>
+  <path id="XMLID_194_" class="cls-1" d="M501,200.078H0V160.4H451.623Z" transform="translate(0 -17.06)"/>
+  <ellipse id="XMLID_193_" class="cls-2" cx="139.559" cy="2.681" rx="139.559" ry="2.681" transform="translate(42.234 168.898)"/>
+  <ellipse id="XMLID_178_" class="cls-2" cx="25.983" cy="1.609" rx="25.983" ry="1.609" transform="translate(350.37 169.97)"/>
+  <g id="XMLID_121_" transform="translate(370.575 83.842)">
+    <path id="XMLID_177_" class="cls-3" d="M0,0H6.25l.007,51.294H.007Z" transform="translate(9.732 0) rotate(9.77)"/>
+    <path id="XMLID_124_" class="cls-4" d="M0,0H3.125l.007,51.294H.007Z" transform="translate(12.834 0.537) rotate(9.77)"/>
+    <path id="XMLID_123_" class="cls-5" d="M416.2,150.155l1.786,8.4,4.375-7.328.357-2.055-1.518,1.877-1.518-2.413-2.143,1.787-.982-2.323Z" transform="translate(-415.155 -99.593)"/>
+    <path id="XMLID_122_" class="cls-6" d="M418.1,159.375l1.875-3.128-1.339-.268a6.886,6.886,0,0,0-1.339-.179Z" transform="translate(-415.272 -100.412)"/>
+  </g>
+  <g id="XMLID_113_" transform="translate(369.299 76.853)">
+    <ellipse id="XMLID_120_" class="cls-7" cx="0.625" cy="0.626" rx="0.625" ry="0.626" transform="translate(3.304 77.032)"/>
+    <rect id="XMLID_119_" class="cls-6" width="6.25" height="62.912" transform="translate(0.804 6.524)"/>
+    <path id="XMLID_118_" class="cls-6" d="M421.368,117.277H413.6V88.145A2.174,2.174,0,0,1,415.743,86h3.482a2.174,2.174,0,0,1,2.143,2.145v29.133Z" transform="translate(-413.6 -86)"/>
+    <rect id="XMLID_117_" class="cls-4" width="6.25" height="0.894" transform="translate(0.804 31.277)"/>
+    <path id="XMLID_116_" class="cls-6" d="M422.3,90.9v.894h1.161v21.09a.758.758,0,0,0-.625.715v2.77a.8.8,0,0,0,.8.8h.714V90.9Z" transform="translate(-414.532 -86.521)"/>
+    <rect id="XMLID_115_" class="cls-8" width="6.25" height="2.413" transform="translate(0.804 69.436)"/>
+    <path id="XMLID_114_" class="cls-6" d="M418.161,172.209l2.589-5.809H414.5l2.5,5.809Z" transform="translate(-413.696 -94.551)"/>
+  </g>
+  <g id="XMLID_105_" transform="translate(374.745 80.07)">
+    <ellipse id="XMLID_112_" class="cls-9" cx="0.625" cy="0.626" rx="0.625" ry="0.626" transform="translate(31.251)"/>
+    <path id="XMLID_111_" class="cls-10" d="M0,0,6.251,0l.018,62.905-6.251,0Z" transform="translate(9.083 68.137) rotate(-158.832)"/>
+    <path id="XMLID_110_" class="cls-10" d="M431.312,137.1l7.232,2.77-10.536,27.167a2.225,2.225,0,0,1-2.768,1.251l-3.3-1.251a2.228,2.228,0,0,1-1.25-2.77Z" transform="translate(-419.794 -94.652)"/>
+    <path id="XMLID_109_" class="cls-4" d="M0,0,6.251,0V.9L0,.894Z" transform="translate(18.085 45.069) rotate(-158.832)"/>
+    <path id="XMLID_108_" class="cls-10" d="M421.575,162.2l.357-.8-1.071-.447,7.59-19.66a.639.639,0,0,0,.8-.447l.982-2.592a.676.676,0,0,0-.446-.983l-.625-.268-.446,1.251-1.071,2.86L419.7,161.575Z" transform="translate(-419.7 -94.641)"/>
+    <path id="XMLID_107_" class="cls-9" d="M0,0,6.251,0V2.414L0,2.413Z" transform="translate(31.805 9.417) rotate(-158.832)"/>
+    <path id="XMLID_106_" class="cls-10" d="M454.175,90.1,449.8,94.568l5.8,2.234-.268-6.255Z" transform="translate(-422.924 -89.653)"/>
+  </g>
+  <g id="XMLID_100_" transform="translate(356.578 93.838)">
+    <path id="XMLID_104_" class="cls-11" d="M1.007.128h6.25L7.251,51.421H1Z" transform="translate(0 1.082) rotate(-9.573)"/>
+    <path id="XMLID_103_" class="cls-4" d="M1.006.073H4.131L4.124,51.366H1Z" transform="translate(3.024 0.619) rotate(-9.573)"/>
+    <path id="XMLID_102_" class="cls-5" d="M409.957,162.428l4.375,7.328,1.786-8.4-.357-2.055-.8,2.234-2.322-1.7L411.3,162.16l-1.7-1.787Z" transform="translate(-400.451 -110.781)"/>
+    <path id="XMLID_101_" class="cls-6" d="M414.664,170.575l.714-3.575c-.446.089-.893.089-1.339.179l-1.339.268Z" transform="translate(-400.783 -111.6)"/>
+  </g>
+  <g id="XMLID_95_" transform="translate(382.09 89.99)">
+    <path id="XMLID_99_" class="cls-11" d="M0,0H6.25l0,51.294H0Z" transform="matrix(0.995, 0.104, -0.104, 0.995, 5.976, 7.6)"/>
+    <path id="XMLID_98_" class="cls-4" d="M0,0H3.125l0,51.294H0Z" transform="matrix(0.995, 0.104, -0.104, 0.995, 9.091, 7.942)"/>
+    <path id="XMLID_97_" class="cls-5" d="M434.579,108.3l3.929-7.6,2.322,8.221-.268,2.145-.893-2.234-2.143,1.877-1.607-2.234-1.518,1.877Z" transform="translate(-428.619 -100.7)"/>
+    <path id="XMLID_96_" class="cls-6" d="M438.8,100.7l.982,3.485c-.446,0-.893-.089-1.339-.089-.446-.089-.893-.089-1.339-.179Z" transform="translate(-428.908 -100.7)"/>
+  </g>
+  <g id="XMLID_8_" transform="translate(39.912)">
+    <path id="XMLID_94_" class="cls-7" d="M186.312,182.4H44.7c0,3.128,3.482,5.809,8.3,6.345l7.5.8a215.161,215.161,0,0,0,24.019,1.34H288.28a215.161,215.161,0,0,0,24.019-1.34l7.5-.8c4.822-.536,8.3-3.217,8.3-6.345H186.312Z" transform="translate(-44.7 -19.4)"/>
+    <path id="XMLID_93_" class="cls-9" d="M63.1,151.025V13.226A13.306,13.306,0,0,1,76.315,0H300.162a13.248,13.248,0,0,1,13.215,13.226v137.8Z" transform="translate(-46.671)"/>
+    <path id="XMLID_92_" class="cls-6" d="M299.1,1.8H77.847A12.962,12.962,0,0,0,64.9,14.758v134.85H312.052V14.758A12.962,12.962,0,0,0,299.1,1.8Z" transform="translate(-46.864 -0.191)"/>
+    <path id="XMLID_91_" class="cls-7" d="M309.888,167.2H62.736L44.7,180.783H327.924Z" transform="translate(-44.7 -17.783)"/>
+    <rect id="XMLID_90_" class="cls-12" width="227.865" height="123.322" transform="translate(27.68 15.192)"/>
+    <g id="XMLID_62_" transform="translate(27.68 15.192)">
+      <g id="XMLID_83_" class="cls-13">
+        <path id="XMLID_89_" class="cls-14" d="M238.033,60,203.3,127.291h69.467Z" transform="translate(-89.367 -21.573)"/>
+        <path id="XMLID_88_" class="cls-15" d="M276.933,127.291,242.2,60l7.322,37.086L242.2,99.141v28.15Z" transform="translate(-93.534 -21.573)"/>
+        <path id="XMLID_87_" class="cls-16" d="M271.391,43.6,228.8,125.994h85.092Z" transform="translate(-92.099 -19.829)"/>
+        <path id="XMLID_86_" class="cls-15" d="M319,125.994,276.5,43.6,285.429,89,276.5,91.5v34.495Z" transform="translate(-97.208 -19.829)"/>
+        <path id="XMLID_85_" class="cls-17" d="M316.9,72.4l-29.2,56.657h58.395Z" transform="translate(-98.408 -22.892)"/>
+        <path id="XMLID_84_" class="cls-15" d="M349.6,129.057,320.4,72.4l6.161,31.188-6.161,1.787v23.681Z" transform="translate(-101.91 -22.892)"/>
+      </g>
+      <g id="XMLID_71_" class="cls-13">
+        <path id="XMLID_82_" class="cls-14" d="M87.433,63.1,52.7,130.391h69.467Z" transform="translate(-73.236 -21.903)"/>
+        <path id="XMLID_81_" class="cls-15" d="M126.333,130.391,91.6,63.1l7.322,37.086L91.6,102.241v28.15Z" transform="translate(-77.403 -21.903)"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(28.483 28.775)">
+          <path id="XMLID_80_" class="cls-16" d="M150.191,49.2,107.6,112.827h85.092Z" transform="translate(-107.6 -49.2)"/>
+          <path id="XMLID_79_" class="cls-15" d="M197.8,112.827,155.3,49.2l8.929,35.031L155.3,86.2v26.63Z" transform="translate(-112.709 -49.2)"/>
+        </g>
+        <path id="XMLID_78_" class="cls-17" d="M181.5,72.4l-29.2,56.657h58.484Z" transform="translate(-83.905 -22.892)"/>
+        <path id="XMLID_72_" class="cls-15" d="M214.287,129.057,185,72.4l6.161,31.188L185,105.375v23.681Z" transform="translate(-87.407 -22.892)"/>
+      </g>
+      <g id="XMLID_64_" class="cls-18">
+        <path id="XMLID_70_" class="cls-14" d="M114.734,62.2,50,149.419H179.469Z" transform="translate(-72.947 -21.807)"/>
+        <path id="XMLID_69_" class="cls-15" d="M187.234,149.419,122.5,62.2l13.661,48.078L122.5,112.959v36.461Z" transform="translate(-80.713 -21.807)"/>
+        <path id="XMLID_68_" class="cls-16" d="M197.289,40.2,118,147.079H276.577Z" transform="translate(-80.231 -19.468)"/>
+        <path id="XMLID_67_" class="cls-15" d="M286.089,147.079,206.8,40.2l16.7,58.891L206.8,102.4v44.682Z" transform="translate(-89.742 -19.468)"/>
+        <path id="XMLID_66_" class="cls-17" d="M282.255,77.6,227.7,151.057H336.722Z" transform="translate(-91.981 -23.445)"/>
+        <path id="XMLID_65_" class="cls-15" d="M343.266,151.057,288.8,77.6l11.429,40.482L288.8,120.316v30.741Z" transform="translate(-98.525 -23.445)"/>
+      </g>
+    </g>
+    <path id="XMLID_59_" class="cls-4" d="M186.312,182.4H44.7c0,3.128,3.482,5.809,8.3,6.345l7.5.8a215.161,215.161,0,0,0,24.019,1.34H288.28a215.161,215.161,0,0,0,24.019-1.34l7.5-.8c4.822-.536,8.3-3.217,8.3-6.345H186.312Z" transform="translate(-44.7 -19.4)"/>
+    <path id="XMLID_58_" class="cls-9" d="M46.664,186.243H326.049a5.1,5.1,0,0,0,1.964-3.843H44.7A5.1,5.1,0,0,0,46.664,186.243Z" transform="translate(-44.7 -19.4)"/>
+    <g id="XMLID_9_" transform="translate(7.143 151.829)">
+      <path id="XMLID_57_" class="cls-6" d="M133.7,173.921h9.643l1.875-4.021h-9.286Z" transform="translate(-61.376 -169.9)"/>
+      <path id="XMLID_56_" class="cls-6" d="M121.9,173.921h9.643l2.232-4.021h-9.2Z" transform="translate(-60.112 -169.9)"/>
+      <path id="XMLID_55_" class="cls-6" d="M190.99,169.9h-9.375l-.714,4.021h9.732Z" transform="translate(-66.432 -169.9)"/>
+      <path id="XMLID_54_" class="cls-6" d="M145.5,173.921h9.643l1.518-4.021h-9.286Z" transform="translate(-62.64 -169.9)"/>
+      <path id="XMLID_53_" class="cls-6" d="M157.3,173.921h9.643L168.1,169.9h-9.286Z" transform="translate(-63.904 -169.9)"/>
+      <path id="XMLID_52_" class="cls-6" d="M179.547,169.9h-9.375l-1.071,4.021h9.732Z" transform="translate(-65.168 -169.9)"/>
+      <path id="XMLID_51_" class="cls-6" d="M98.3,173.921h9.554l3.036-4.021h-9.2Z" transform="translate(-57.584 -169.9)"/>
+      <path id="XMLID_50_" class="cls-6" d="M74.8,173.921h9.375l3.75-4.021H78.907Z" transform="translate(-55.067 -169.9)"/>
+      <path id="XMLID_49_" class="cls-6" d="M110.1,173.921h9.554l2.679-4.021h-9.2Z" transform="translate(-58.848 -169.9)"/>
+      <path id="XMLID_48_" class="cls-6" d="M69.2,179.232h9.911l3.75-3.932H73.4Z" transform="translate(-54.467 -170.474)"/>
+      <path id="XMLID_47_" class="cls-6" d="M192.7,173.921h9.732V169.9h-9.375Z" transform="translate(-67.696 -169.9)"/>
+      <path id="XMLID_46_" class="cls-6" d="M86.6,173.921h9.465l3.3-4.021H90.35Z" transform="translate(-56.331 -169.9)"/>
+      <path id="XMLID_45_" class="cls-6" d="M251.418,173.921h9.643l-1.875-4.021H249.9Z" transform="translate(-73.822 -169.9)"/>
+      <path id="XMLID_44_" class="cls-6" d="M286.789,173.921h9.554l-3.036-4.021H284.2Z" transform="translate(-77.496 -169.9)"/>
+      <path id="XMLID_43_" class="cls-6" d="M298.547,173.921H308.1l-3.393-4.021H295.6Z" transform="translate(-78.717 -169.9)"/>
+      <path id="XMLID_42_" class="cls-6" d="M310.393,173.921h9.465l-3.75-4.021H307Z" transform="translate(-79.938 -169.9)"/>
+      <path id="XMLID_41_" class="cls-6" d="M275.022,173.921h9.554l-2.589-4.021H272.7Z" transform="translate(-76.264 -169.9)"/>
+      <path id="XMLID_40_" class="cls-6" d="M331.615,173.921l-4.2-4.021H318.4l3.75,4.021Z" transform="translate(-81.159 -169.9)"/>
+      <path id="XMLID_39_" class="cls-6" d="M216.146,173.921h9.732l-.8-4.021H215.7Z" transform="translate(-70.159 -169.9)"/>
+      <path id="XMLID_38_" class="cls-6" d="M227.9,173.921h9.732l-1.161-4.021H227.1Z" transform="translate(-71.38 -169.9)"/>
+      <path id="XMLID_37_" class="cls-6" d="M204.5,173.921h9.554L213.7,169.9h-9.2Z" transform="translate(-68.959 -169.9)"/>
+      <path id="XMLID_36_" class="cls-6" d="M239.661,173.921H249.3l-1.429-4.021H238.5Z" transform="translate(-72.601 -169.9)"/>
+      <path id="XMLID_35_" class="cls-6" d="M263.175,173.921h9.643l-2.232-4.021H261.3Z" transform="translate(-75.043 -169.9)"/>
+      <path id="XMLID_34_" class="cls-6" d="M94.8,175.3H85.25l-3.75,3.932h9.911Z" transform="translate(-55.785 -170.474)"/>
+      <path id="XMLID_33_" class="cls-6" d="M321.054,175.3H311.5l3.393,3.932H324.8Z" transform="translate(-80.42 -170.474)"/>
+      <path id="XMLID_32_" class="cls-6" d="M285.443,175.3H275.8l2.232,3.932h10.09Z" transform="translate(-76.596 -170.474)"/>
+      <path id="XMLID_31_" class="cls-6" d="M297.343,175.3H287.7l2.589,3.932h10Z" transform="translate(-77.871 -170.474)"/>
+      <path id="XMLID_30_" class="cls-6" d="M273.543,175.3H263.9l1.875,3.932h10.09Z" transform="translate(-75.322 -170.474)"/>
+      <path id="XMLID_29_" class="cls-6" d="M261.722,175.3H251.9l1.518,3.932H263.6Z" transform="translate(-74.037 -170.474)"/>
+      <path id="XMLID_28_" class="cls-6" d="M309.154,175.3H299.6l3.036,3.932h9.911Z" transform="translate(-79.146 -170.474)"/>
+      <path id="XMLID_27_" class="cls-6" d="M346.561,175.2v.089H335.4l4.107,3.932h12.411Z" transform="translate(-82.98 -170.464)"/>
+      <path id="XMLID_26_" class="cls-6" d="M72.043,173.921l4.107-4.021H65.168L59.9,173.921Z" transform="translate(-53.471 -169.9)"/>
+      <path id="XMLID_25_" class="cls-6" d="M70.468,175.3H58.057L52.7,179.232H66.272Z" transform="translate(-52.7 -170.474)"/>
+      <path id="XMLID_24_" class="cls-6" d="M249.822,175.3H240l1.161,3.932H251.34Z" transform="translate(-72.762 -170.474)"/>
+      <path id="XMLID_23_" class="cls-6" d="M332.954,175.3H323.4l3.75,3.932h9.911Z" transform="translate(-81.695 -170.474)"/>
+      <path id="XMLID_22_" class="cls-6" d="M333.907,173.921h11.072l-5.357-4.021H329.8Z" transform="translate(-82.38 -169.9)"/>
+      <path id="XMLID_21_" class="cls-6" d="M106.747,175.3H97.193L93.8,179.232h10Z" transform="translate(-57.102 -170.474)"/>
+      <path id="XMLID_20_" class="cls-6" d="M154.608,175.3h-9.732L143,179.232h10.09Z" transform="translate(-62.372 -170.474)"/>
+      <path id="XMLID_19_" class="cls-6" d="M142.665,175.3h-9.732l-2.232,3.932h10.09Z" transform="translate(-61.055 -170.474)"/>
+      <path id="XMLID_18_" class="cls-6" d="M166.55,175.3h-9.822l-1.429,3.932h10.09Z" transform="translate(-63.69 -170.474)"/>
+      <path id="XMLID_17_" class="cls-6" d="M130.722,175.3h-9.732l-2.589,3.932h10Z" transform="translate(-59.737 -170.474)"/>
+      <path id="XMLID_16_" class="cls-6" d="M118.69,175.3h-9.554l-3.036,3.932h10Z" transform="translate(-58.42 -170.474)"/>
+      <path id="XMLID_15_" class="cls-6" d="M178.493,175.3h-9.822l-1.071,3.932h10.179Z" transform="translate(-65.007 -170.474)"/>
+      <path id="XMLID_14_" class="cls-6" d="M226.022,175.3H216.2l.446,3.932h10.179Z" transform="translate(-70.213 -170.474)"/>
+      <path id="XMLID_13_" class="cls-6" d="M214.143,175.3H204.5v3.932h10Z" transform="translate(-68.959 -170.474)"/>
+      <path id="XMLID_12_" class="cls-6" d="M190.436,175.3h-9.822l-.714,3.932h10.179Z" transform="translate(-66.325 -170.474)"/>
+      <path id="XMLID_11_" class="cls-6" d="M237.922,175.3H228.1l.8,3.932h10.179Z" transform="translate(-71.487 -170.474)"/>
+      <path id="XMLID_10_" class="cls-6" d="M202.379,175.3h-9.822l-.357,3.932h10.179Z" transform="translate(-67.642 -170.474)"/>
+    </g>
+  </g>
+  <rect id="XMLID_7_" class="cls-19" width="501" height="16.979" transform="translate(0 183.017)"/>
+  <rect id="XMLID_6_" class="cls-19" width="438.855" height="48.703" transform="translate(0 199.997)"/>
+  <rect id="XMLID_5_" class="cls-4" width="438.855" height="9.473" transform="translate(0 199.997)"/>
+  <path id="XMLID_4_" class="cls-20" d="M438.394,149.9H400v28.6a9,9,0,0,0,9.018,9.026h20.358a9,9,0,0,0,9.018-9.026Z" transform="translate(-42.844 -15.943)"/>
+  <path id="XMLID_2_" class="cls-20" d="M437.712,143.9H400.122a2.365,2.365,0,0,0-2.322,2.323v.715a2.365,2.365,0,0,0,2.322,2.323h37.591a2.365,2.365,0,0,0,2.322-2.323v-.715A2.306,2.306,0,0,0,437.712,143.9Z" transform="translate(-42.609 -15.305)"/>
+  <rect id="XMLID_1_" class="cls-4" width="38.394" height="2.234" transform="translate(357.156 133.957)"/>
+</svg>

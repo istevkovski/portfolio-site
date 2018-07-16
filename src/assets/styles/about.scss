@@ -1,0 +1,138 @@
+@import 'variables.scss';
+
+.about {
+    position: relative;
+    height: 100vh;
+    background-color: $gray-text-1;
+
+    .wrapper {
+        padding: 40px;
+        height: 100%;
+
+        h2 {
+            text-align: center;
+            font-family: $barlow;
+            font-size: 32px;
+            font-weight: 300;
+            color: $branding-orange;
+            text-transform: uppercase;
+        }
+
+        .about-me {
+            position: relative;
+            display: inline-block;
+            width: 640px;
+            height: 222px;
+            margin-left: 46px;
+            margin-top: 42px;
+            padding: 26px;
+            text-align: center;
+
+            p {
+                font-family: $josefin-sans;
+                font-weight: 200;
+                font-size: 26px;
+                color: white;
+                cursor: default;
+                margin-bottom: 8px;
+            }
+        }
+
+        .skills {
+            display: flex;
+            flex-direction: column;
+            width: 721px;
+            margin-top: 20px;
+            margin-left: 32px;
+
+            .top {
+                height: 38.5px;
+                // background-color: orange;
+                border-bottom: 1px solid $branding-orange;
+
+                p {
+                    font-family: $barlow;
+                    font-size: 32px;
+                    font-weight: 300;
+                    color: $branding-orange;
+                    text-transform: uppercase;
+                }
+            }
+
+            .bottom {
+                display: flex;
+                height: 185px;
+                // background-color: red;
+
+                &-flex {
+                    width: 25%;
+                    height: 100%;
+                }
+
+                &-flex-4 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: flex-end;
+                    align-items: flex-end;
+
+                    .skill {
+                        margin: 0;
+                        margin-left: 10px;
+                    }
+                }
+
+                .skill {
+                    display: flex;
+                    flex-direction: row;
+                    height: 35px;
+                    margin-top: 7px;
+
+                    &:first-of-type {
+                        margin-top: 20px;
+                    }
+
+                    img {
+                        width: 30px;
+                        height: 30px;
+                    }
+
+                    p {
+                        font-family: $josefin-sans;
+                        font-size: 20px;
+                        margin: auto 0;
+                        margin-left: 9.4px;
+                        color: white;
+                    }
+                }
+
+                // endOf bottom
+            }
+
+            // endOf Skills
+        }
+
+        // endOf wrapper
+    }
+
+    .text-template {
+        position: absolute;
+        width: 375px;
+        height: 395px;
+        top: 0;
+        right: 0;
+        margin-top: 54px;
+        margin-right: 88px;
+    }
+
+    .about-workers {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 500px;
+        height: 500px;
+        margin-top: 135px;
+        margin-right: 20px;
+    }
+
+    // endOf about
+}

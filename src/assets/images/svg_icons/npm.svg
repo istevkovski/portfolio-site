@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 19.444">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="npm-brands" class="cls-1" d="M25,171.111H22.222v-5.556H25ZM50,160v16.667H25v2.778H13.889v-2.778H0V160Zm-36.111,2.778H2.778v11.111H8.333v-8.333h2.778v8.333h2.778Zm13.889,0H16.667v13.889h5.556v-2.778h5.556Zm19.444,0H30.556v11.111h5.556v-8.333h2.778v8.333h2.778v-8.333h2.778v8.333h2.778Z" transform="translate(0 -160)"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="foundation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #3a3a3a;
+      }
+    </style>
+  </defs>
+  <path id="Path_180" data-name="Path 180" class="cls-1" d="M0,30H30V0H0V30"/>
+  <path id="Path_182" data-name="Path 182" class="cls-2" d="M64.551,224.2h14v4.328h-8.4v3.055h7.128v3.563H70.152v7.383h-5.6V224.2" transform="translate(-56.722 -218.858)"/>
+</svg>

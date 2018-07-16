@@ -1,0 +1,42 @@
+@import 'variables.scss';
+
+/* width */
+::-webkit-scrollbar {
+    width: 0px;
+    background-color: transparent;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 100px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #F8F8F8;
+    color: $gray-text;
+    margin: 0 auto;
+    max-width: 1366px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    color: $gray-text;
+    box-sizing: border-box;
+}

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 427.305 427.358">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #b5b5b5;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 3.55px;
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        stroke-width: 4.979px;
+        opacity: 0.4;
+      }
+
+      .cls-3 {
+        stroke-width: 6.408px;
+        opacity: 0.6;
+      }
+
+      .cls-4 {
+        stroke-width: 7.837px;
+        opacity: 0.8;
+      }
+
+      .cls-5 {
+        stroke-width: 9.266px;
+      }
+    </style>
+  </defs>
+  <g id="Group_274" data-name="Group 274" transform="translate(-13201.951 -1409.632)">
+    <g id="phone_signal" transform="matrix(0.921, -0.391, 0.391, 0.921, 13201.918, 1536.938)">
+      <g id="Group_267" data-name="Group 267">
+        <path id="Path_474" data-name="Path 474" class="cls-1" d="M324.1,163A161.15,161.15,0,1,1,163,1.8,161.236,161.236,0,0,1,324.1,163Z"/>
+        <path id="Path_475" data-name="Path 475" class="cls-2" d="M163,33.2A129.7,129.7,0,1,1,33.3,162.9C33.2,91.3,91.3,33.2,163,33.2Z"/>
+        <path id="Path_476" data-name="Path 476" class="cls-3" d="M163,64.7A98.3,98.3,0,1,1,64.7,163,98.287,98.287,0,0,1,163,64.7Z"/>
+        <path id="Path_477" data-name="Path 477" class="cls-4" d="M163,96.1A66.85,66.85,0,1,1,96.2,163,66.812,66.812,0,0,1,163,96.1Z"/>
+        <path id="Path_478" data-name="Path 478" class="cls-5" d="M198.4,163A35.4,35.4,0,1,1,163,127.6,35.4,35.4,0,0,1,198.4,163Z"/>
+      </g>
+    </g>
+    <rect id="Rectangle_78" data-name="Rectangle 78" class="cls-6" width="423" height="423" transform="translate(13204 1412)"/>
+  </g>
+</svg>
