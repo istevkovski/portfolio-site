@@ -3,17 +3,9 @@
         <div class="home">
             <Header/>
             <div class="wrapper">
-                <!-- <h2 class="main-msg">Looking for a <span>developer?_</span></h2> -->
                 <h2 class="main-msg">Looking for a <span>{{fancy_msg}}</span><span class="fancy-msg-underscore">_</span></h2>
                 <button v-on:click="sectionSlide('#section-about'), setNavActiveTracker(2)" class="btn">Find Out More</button>
             </div>
-            <!-- <sidenav/> -->
-            <!-- <div class="nav-circles">
-                <a href="#" class="nav-circle nav-active"></a>
-                <a href="#" class="nav-circle"></a>
-                <a href="#" class="nav-circle"></a>
-                <a href="#" class="nav-circle"></a>
-            </div> -->
             <div class="container">
                 <div class="chevron"></div>
                 <div class="chevron"></div>

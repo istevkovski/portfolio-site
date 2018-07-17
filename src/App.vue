@@ -48,7 +48,7 @@ export default {
     @import './assets/styles/variables.scss';
 
     body {
-        width: 100vw;
+        // width: 100vw;
         margin: 0 auto;
     }
 

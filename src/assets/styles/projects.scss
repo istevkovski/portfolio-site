@@ -69,8 +69,8 @@
     position: absolute;
     // position: relative;
     bottom: 0;
-    width: 712px;
-    height: 635px;
+    width: 52.2%;
+    height: auto;
 }
 
 .project-workers {
@@ -80,24 +80,20 @@
 
 .gear-lower {
     position: absolute;
-    top: 0;
-    left: 0;
-    margin-top: 385.6px;
-    margin-left: 35px;
-    width: 65px;
-    height: 65px;
+    width: 9.1%;
+    height: auto;
+    top: 62%;
+    left: 4.5%;
     transform: rotateZ(0deg);
     animation: gear-rotary 5s cubic-bezier(.45,.78,.59,.21) infinite;
 }
 
 .gear-upper {
     position: absolute;
-    top: 0;
-    right: 0;
-    margin-top: 268px;
-    margin-right: 180.1px;
-    width: 137.5px;
-    height: 137.5px;
+    width: 19.3%;
+    height: auto;
+    top: 42.5%;
+    right: 25%;
     transform: rotateZ(0deg);
     animation: gear-rotary 10s linear infinite;
 }
@@ -106,13 +102,13 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 493.9px;
-    height: 456.77px;
+    width: 69.32%;
+    height: auto;
 }
 
 .project-workers-clouds {
     position: absolute;
-    top: 200.4px;
+    top: 32%;
     right: 180.4px;
     width: 182.85px;
     height: 45.82px;
@@ -120,7 +116,8 @@
 }
 
 .project-workers-shadow {
-    position: absolute;
+    position: relative;
+    display: block;
     top: 0;
     left: 0;
 }
@@ -166,9 +163,9 @@
 }
 
 .project-image {
-    width: 559.06px;
-    height: 313.86px;
-    border-radius: 50px;
+    // width: 559.06px;
+    // height: 313.86px;
+    border-radius: 12px;
     overflow: hidden;
     margin-bottom: 20px;
 
@@ -198,7 +195,7 @@
 
 .project-right {
     position: relative;
-    margin-left: calc(100% - 559.08px);
+    margin-left: calc(100% - 45%);
 
     .project-image {
         box-shadow: -6px 6px 7px rgba(0,0,0,.15);
@@ -217,10 +214,10 @@
 }
 
 .project {
-    // display: inline-flex;
-    // flex-direction: column;
     display: block;
-    width: 559.09px;
+    // width: 559.09px;
+    width: 43.5%;
+    height: auto;
 
     h2, span, p {
         text-align: center;
