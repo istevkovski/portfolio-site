@@ -2,7 +2,7 @@
 
 /* width */
 ::-webkit-scrollbar {
-    width: 0px;
+    width: 1px;
     background-color: transparent;
 }
 
@@ -29,7 +29,7 @@ body {
     background-color: #F8F8F8;
     color: $gray-text;
     margin: 0 auto;
-    max-width: 1366px;
+    // max-width: 1366px;
 }
 
 * {

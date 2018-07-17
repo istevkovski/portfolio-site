@@ -38,11 +38,10 @@ export default {
     .nav-circles {
         display: inline-flex;
         flex-direction: column;
-        // position: absolute;
         position: fixed;
         top: 50%;
         transform: translateY(-50%);
-        right: 12px;
+        right: 126px;
         z-index: 10;
     }
 
@@ -72,4 +71,11 @@ export default {
             opacity: 1;
         }
     }
+
+    @media only screen and (max-width: 1366px) {
+        .nav-circles {
+            right: 12px;
+        }
+    }
+
 </style>

@@ -62,7 +62,7 @@ export default {
 
         h4 {
             font-weight: 200;
-            font-size: 26;
+            font-size: 20px;
         }
 
     }

@@ -46,6 +46,24 @@ export default {
 <style lang="scss">
     @import './assets/styles/normalize.scss';
     @import './assets/styles/variables.scss';
+
+    body {
+        width: 100vw;
+        margin: 0 auto;
+    }
+
+    #app {
+        margin: 0 114px;
+        overflow: hidden;
+        box-shadow: 0px 6px 7px rgba(0, 0, 0, 0.15);
+    }
+
+    @media only screen and (max-width: 1366px) {
+        #app {
+            margin: 0;
+        }
+    }
+
 </style>
 
 
