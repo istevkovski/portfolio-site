@@ -28,9 +28,9 @@
         margin-left: 66px;
 
         p {
-            font-family: $josefin-sans;
-            font-weight: 300;
-            font-size: 32px;
+            font-family: $montserrat;
+            font-weight: 200;
+            font-size: 28px;
             color: $gray-text;
         }
 
@@ -45,24 +45,22 @@
 }
 
 .phone {
-    position: relative;
-    width: 423px;
-    height: 423px;
-    margin-left: -40px;
+    position: absolute;
+    // width: 34%;
+    width: 32%;
+    bottom: 0;
+    left: 0;
     overflow: hidden;
 
     &-model {
         position: absolute;
-        width: 245px;
-        height: 315.18px;
-        top: 71px;
-        left: 102px;
+        width: 59%;
+        top: 16%;
+        left: 24%;
     }
 
     &-signal {
         position: relative;
-        width: 423px;
-        height: 423px;
     }
 }
 
@@ -81,8 +79,8 @@
     }
 
     h4 {
-        font-weight: 200;
-        font-size: 26;
+        font-weight: 300;
+        font-size: 19px;
     }
 
 }
@@ -115,9 +113,9 @@
     .partial {
         display: flex;
         flex-direction: row;
-        font-family: $josefin-sans;
-        font-weight: 300;
-        font-size: 21px;
+        font-family: $montserrat;
+        font-weight: 200;
+        font-size: 18px;
         // justify-content: space-between;
         justify-content: flex-end;
 
