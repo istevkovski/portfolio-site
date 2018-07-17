@@ -50,7 +50,7 @@ export default {
         text-align: right;
         cursor: default;
         h2 {
-            font-family: 'Barlow Semi Condensed', sans-serif;
+            font-family: $barlow;
             font-size: 42px;
             font-weight: 200;
             color: $gray-text;
@@ -61,7 +61,7 @@ export default {
         }
 
         h4 {
-            font-weight: 200;
+            font-weight: 300;
             font-size: 20px;
         }
 

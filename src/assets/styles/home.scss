@@ -17,7 +17,7 @@
         position: absolute;
         bottom: 40px;
         right: 40px;
-        font-family: "Josefin Sans", sans-serif;
+        font-family: $montserrat;
         font-weight: 300;
         font-size: 14px;
         letter-spacing: 1px;
@@ -40,8 +40,8 @@
 
 .main-msg {
     position: relative;
-    font-family: "Montserrat", sans-serif;
-    font-size: 45px;
+    font-family: $montserrat;
+    font-size: 42px;
     font-weight: 200;
     text-align: center;
     margin-bottom: 35px;
@@ -58,8 +58,8 @@
     border-radius: 50px;
     background-color: $branding-orange;
     cursor: pointer;
-    font-family: "Monserrat", sans-serif;
-    font-size: 19px;
+    font-family: $barlow;
+    font-size: 20px;
     font-weight: 300;
     color: white;
     line-height: 1;
